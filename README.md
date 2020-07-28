@@ -1,2 +1,2 @@
 # Projetos-Python
- Projetos iniciais para testar GitHub 
+ Projetos iniciais para testar Git e GitHub 
